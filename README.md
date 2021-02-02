@@ -47,7 +47,7 @@ You are required to learn how to build your own deep learning model. We offered 
 
 
 ## What to be included in your report?
-Please plot `training loss vs. epoch`, `testing loss vs. epoch`, `training accuracy vs. epoch`, and `testing accuracy vs. epoch`. You need to write a function(s) to record the results in `main.py'.
+Please plot `training loss vs. epoch`, `testing loss vs. epoch`, `training accuracy vs. epoch`, and `testing accuracy vs. epoch`. You need to write a function(s) to record the results in `main.py1.
 
 ### How to run?
 ```bash
