@@ -22,10 +22,10 @@ This video is focused on troubleshooting VMs:
 
 <a href="https://www.youtube.com/watch?v=MAJrN-2IPY8">How to troubleshoot common virtual machine issues | Azure Portal Series - YouTube</a>
 
-### Your task
+### What to be included in your report?
 Please record training loss, testing loss, training accuracy, and testing accuracy.
 
-### How to run
+### How to run?
 ```bash
 pip install -r requirements.txt
 python main.py
