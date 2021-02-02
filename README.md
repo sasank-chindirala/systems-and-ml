@@ -1,7 +1,7 @@
 # COSD598_Warmup -- MNIST Classification
 This is a warmup task to let you get familiar with Azure Cloud Platform and running deep learning model using Pytorch.
 
-## Your tasks
+## Task1
 
 ###Get started with Azura
 
@@ -22,10 +22,16 @@ This video is focused on troubleshooting VMs:
 
 <a href="https://www.youtube.com/watch?v=MAJrN-2IPY8">How to troubleshoot common virtual machine issues | Azure Portal Series - YouTube</a>
 
-### What to be included in your report?
+## Task 2
 Please run the model with the default setting in main.py. You do not need to specify any configuration. 
 
-In this experiment, you will 
+***Model and Dataset***
+In this experiment, you will train convolutional neural networks (CNN) for MNIST dataset classification. MNIST dataset contains hand-writing digits 0-9. When you run the code, data will be automatically downloaded and split into training and testing datasets. Training data will be used for CNN training and testing data will be used for evaluation. 
+
+***CNN archietecture***
+You are required to learn how to build your own deep learning model. 
+
+## What to be included in your report?
 Please record training loss, testing loss, training accuracy, and testing accuracy.
 
 ### How to run?
