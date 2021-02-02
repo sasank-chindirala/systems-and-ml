@@ -23,6 +23,9 @@ This video is focused on troubleshooting VMs:
 <a href="https://www.youtube.com/watch?v=MAJrN-2IPY8">How to troubleshoot common virtual machine issues | Azure Portal Series - YouTube</a>
 
 ### What to be included in your report?
+Please run the model with the default setting in main.py. You do not need to specify any configuration. 
+
+In this experiment, you will 
 Please record training loss, testing loss, training accuracy, and testing accuracy.
 
 ### How to run?
