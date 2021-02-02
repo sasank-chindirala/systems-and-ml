@@ -13,7 +13,9 @@ To get started with Azure, I’d recommend you to view videos 1 – 5 in the Azu
 
 As for resources, here’s step-by-step guided lessons from Microsoft Learn on virtual machines:
 <a href="https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/">Introduction to Azure virtual machines - Learn | Microsoft Docs</a>
+
 <a href="https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/">Create a Windows virtual machine in Azure - Learn | Microsoft Docs</a>
+
 <a href="https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/">Create a Linux virtual machine in Azure - Learn | Microsoft Docs</a>
  
 This video is focused on troubleshooting VMs: 
