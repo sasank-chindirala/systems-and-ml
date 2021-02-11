@@ -42,8 +42,8 @@ You are required to learn how to build your own deep learning model. We offered 
         self.fc1 = nn.Linear(9216, 128)
         self.fc2 = nn.Linear(128, 10)
 ```
-- [ ] Please add one more Conv2D layer with `kernel size = 32` between layer `self.conv1` and layer `self.conv2`. You need to modify the `forward` function correspondingly. Let us call this model as 'model2'.
-- [ ] Please add one more FC layer with `kernel size = 128` between layer `self.fc1` and layer `self.fc2`. You need to modify the `forward` function correspondingly. Let us call this model as 'model3'.
+- [ ] Please add one more Conv2D layer with `channel size  (number of kernels) = 32` between layer `self.conv1` and layer `self.conv2`. You need to modify the `forward` function correspondingly. Let us call this model as 'model2'.
+- [ ] Please add one more FC layer with `channel size  (number of kernels) = 128` between layer `self.fc1` and layer `self.fc2`. You need to modify the `forward` function correspondingly. Let us call this model as 'model3'.
 
 
 ### What to be included in your report?
