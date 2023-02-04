@@ -21,8 +21,6 @@ You are required to learn how to build your own deep learning model. We offered 
 - [ ] Please add one more Conv2D layer with `channel size  (number of kernels) = 32` between layer `self.conv1` and layer `self.conv2` to model1. You need to modify the `forward` function correspondingly. Let us call this model as 'model2'.
 - [ ] Please add one more FC layer with `channel size  (number of kernels) = 128` between layer `self.fc1` and layer `self.fc2` to model1. You need to modify the `forward` function correspondingly. Let us call this model as 'model3'.
 
-
-### What to be included in your report?
 Please plot `training loss vs. epoch`, `testing loss vs. epoch`, `training accuracy vs. epoch`, and `testing accuracy vs. epoch` for model1, model2 and model3. You need to write a function(s) to record the results in `main.py`.
 
 ### How to run?
